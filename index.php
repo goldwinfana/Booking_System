@@ -34,7 +34,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="text-uppercase section-heading">Services</h2>
-                    <h3 class="text-muted section-subheading"><em>At Booking System truck hire are focused and always do our greatest to form our service as easy as possible. The system is specifically designed for people who will have to move their staff from one location to another at any given time.</em></h3>
+                    <h3 class="text-muted section-subheading"><em>At hcsc System truck hire are focused and always do our greatest to form our service as easy as possible. The system.</em></h3>
                 </div>
             </div>
             <div class="row text-center">
