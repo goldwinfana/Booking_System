@@ -7,7 +7,7 @@
 		$conn = $pdo->open();
 
 		try{
-			$stmt = $conn->prepare("DELETE FROM customer WHERE id=:id");
+			$stmt = $conn->prepare("DELETE FROM patient WHERE id=:id");
 			$stmt->execute(['id'=>$id]);
 
 			$_SESSION['success'] = 'User deleted successfully';
